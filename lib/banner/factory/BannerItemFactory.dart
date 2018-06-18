@@ -9,7 +9,7 @@ class BannerItemFactory {
     static List<Widget> banners(List<Pair<String, Color>> param) {
 
         TextStyle style = new TextStyle(
-            fontSize: 35.0,
+            fontSize: 70.0,
             color: Colors.white,
         );
       

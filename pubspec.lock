@@ -25,10 +25,12 @@ packages:
   banner_view:
     dependency: "direct main"
     description:
-      path: "..\\banner_view"
-      relative: true
-    source: path
-    version: "1.0.1"
+      path: "."
+      ref: HEAD
+      resolved-ref: "12d601ec8a8ba4a56692f5aac44256341f7a1dc4"
+      url: "https://github.com/yangxiaoweihn/BannerView.git"
+    source: git
+    version: "0.1.0"
   boolean_selector:
     dependency: transitive
     description:

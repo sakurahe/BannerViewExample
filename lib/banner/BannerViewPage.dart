@@ -53,11 +53,11 @@ class _BannerViewPageState extends State<BannerViewPage> {
     BannerView _bannerView0() {
 
         List<Pair<String, Color>> param = [
-            Pair.create('1', Colors.red[100]),
-            Pair.create('2', Colors.green[100]),
-            Pair.create('3', Colors.blue[100]),
-            Pair.create('4', Colors.yellow[100]),
-            Pair.create('5', Colors.red[100]),
+            Pair.create('1', Colors.red[500]),
+            Pair.create('2', Colors.green[500]),
+            Pair.create('3', Colors.blue[500]),
+            Pair.create('4', Colors.yellow[500]),
+            Pair.create('5', Colors.purple[500]),
         ];
 
         return new BannerView(
