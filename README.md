@@ -1,4 +1,3 @@
 # banner_view_example
 
-For testing BannerView.
-![BannerView](https://github.com/yangxiaoweihn/BannerView)
+For testing <a href="https://github.com/yangxiaoweihn/BannerView">BannerView</a>.
